@@ -1,3 +1,3 @@
-# COIN TRACKER
+# ToDoList (React Version)
 
-## COIN TRACKER V1.2
+## React with Typescript
